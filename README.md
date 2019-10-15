@@ -1,11 +1,12 @@
 # STB_FVBMM
 Video analysis binary features
 
+Instructions
+1. Comipile the mex files inside LIB
+2. Download the STB features (see DATA folder)
+3. Open Main and press F5
+
 This is the code of the paper:
-
-
-
-
 
 <pre>@ARTICLE{RLeyva19,
 author={R. {Leyva} and V. {Sanchez} and C. {Li}},
