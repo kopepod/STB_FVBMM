@@ -2,7 +2,7 @@
 Video analysis binary features
 
 Instructions
-1. Comipile the mex files inside LIB
+1. Compile the mex files inside LIB/MEX/FV
 2. Download the STB features (see DATA folder)
 3. Open Main and press F5
 
